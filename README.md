@@ -1,0 +1,20 @@
+# Retail analytics:
+
+# Purpose:
+
+
+# Business Problem:
+The retail company has observed stagnant growth and declining customer engagement metrics over the past quarters.
+Initial assessments indicate potential issues in product performance variability, ineffective customer segmentation, and
+lack of insights into customer purchasing behavior.
+The company seeks to leverage its sales transaction data, customer profiles, and product inventory
+information to address the following key business problems:
+
+• Product Performance Variability: Identifying which products are performing well in terms of sales and which are not.
+ This insight is crucial for inventory management and marketing focus.
+• Customer Segmentation: The company lacks a clear understanding of its customer base segmentation.
+  Effective segmentation is essential for targeted marketing and enhancing customer satisfaction.
+• Customer Behaviour Analysis: Understanding patterns in customer behavior,including repeat purchases and loyalty indicators,
+  is critical for tailoring customer engagement strategies and improving retention rates.
+
+  
