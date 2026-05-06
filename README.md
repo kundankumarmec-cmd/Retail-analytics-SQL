@@ -39,3 +39,11 @@ information to address the following key business problems:
 •Company needed cleaner data and actionable insights to improve sales, marketing, and retention.
 •Used SQL and analytics to clean datasets (+15% accuracy, –20% errors), identify sales trends, segment customers, and analyze loyalty drivers.
 •Boosted revenue by 10%, cut inventory by 12%, lifted campaign engagement by 25%, improved conversions by 18%, raised CLV(customer lifetime value) by 22%, and increased repeat purchases by 15%.
+
+
+## 👤 About Me
+I am an **Aspiring Data Analyst** focused on converting raw datasets into meaningful insights and real-world recommendations.  
+Actively seeking **entry-level Data Analyst**.
+
+## 📬 Contact
+https://www.linkedin.com/in/kundan-kumar-71a3a1191/
